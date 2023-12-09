@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jclouds.common.openstack" type="repository">
+    <properties maven-id="org.jclouds.common:openstack-common:1.5.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jclouds/common/openstack-common/1.5.10/openstack-common-1.5.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jclouds/jclouds-core/1.5.10/jclouds-core-1.5.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/3.0/guice-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/99soft/guice/rocoto/6.1/rocoto-6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2/gson-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/13.0/guava-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
